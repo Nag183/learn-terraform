@@ -1,7 +1,5 @@
 # learn-terraform
 
-# learn-terraform
-
 1. Variables
 2. Functions
 3. Data Source
